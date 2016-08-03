@@ -1,0 +1,52 @@
+[
+    {
+        "productId": 1,
+        "productName": "Leaf Rake",
+        "productCode": "LR-56",
+        "releaseDate": "March 22, 2015",
+        "description": "Awesome stuff 40-inch wooden handle.",
+        "price": 20.95,
+        "starRating": 2.2,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/26215/Anonymous_Leaf_Rake.png"
+    },
+    {
+        "productId": 2,
+        "productName": "Backyard Cart",
+        "productCode": "GDN-0023",
+        "releaseDate": "March 4, 2002",
+        "description": "10 gallon capacity rolling garden cart",
+        "price": 54.59,
+        "starRating": 3.7,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/58471/garden_cart.png"
+    },
+    {
+        "productId": 3,
+        "productName": "Heavy Duty Hammer",
+        "productCode": "TXX-0338",
+        "releaseDate": "May 4, 2004",
+        "description": "Claw steel hammer",
+        "price": 48.9,
+        "starRating": 3.8,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/73/rejon_Hammer.png"
+    },
+    {
+        "productId": 4,
+        "productName": "Saw",
+        "productCode": "TAX-0332",
+        "releaseDate": "May 5, 2010",
+        "description": "7-inch steel blade",
+        "price": 6.55,
+        "starRating": 2.4,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/27070/egore911_saw.png"
+    },
+    {
+        "productId": 5,
+        "productName": "Game Controller",
+        "productCode": "GC-0044",
+        "releaseDate": "October 18, 2009",
+        "description": "Standard game controller",
+        "price": 55.95,
+        "starRating": 3.6,
+        "imageUrl": "http://openclipart.org/image/300px/svg_to_png/120337/xbox-controller_01.png"
+    }
+]
